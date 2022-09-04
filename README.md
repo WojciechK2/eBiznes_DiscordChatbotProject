@@ -26,3 +26,5 @@ Help Page
 	Asking for categories: message me "categories"  
 	Asking for specific product: message me "products "  
 	Asking for specific category: message me "categories "  
+
+Sample communication presented on Test.png file
