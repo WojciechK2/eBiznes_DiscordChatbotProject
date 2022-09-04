@@ -9,6 +9,9 @@ Ktor based backend with Exposed ORM.
 CRUD-like communication and resource management.   
 Ktor based client for proxying requests to a backend.  
 
+Discord Client Build with: JDA Library
+https://github.com/DV8FromTheWorld/JDA
+
 1. add the .env file in the Discord_Client folder (path should match "Discord_Client/.env")  
 	SERVER_URL=http://backend:8080/  
 	DISCORD_TOKEN=<your token>    
@@ -28,3 +31,5 @@ Help Page
 	Asking for specific category: message me "categories "  
 
 Sample communication presented on Test.png file
+
+![Test](https://user-images.githubusercontent.com/22565779/188334930-1429e33c-3e50-4360-ba39-be190ceef282.png)
