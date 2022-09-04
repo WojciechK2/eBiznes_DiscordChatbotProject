@@ -1,0 +1,13 @@
+.idea
+
+/Discord_Client/.gradle/
+/Discord_Client/.env
+/Discord_Client/build/
+/Server/.gradle/
+/Server/build/
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle wrappper properties
+!gradle-wrapper.properties

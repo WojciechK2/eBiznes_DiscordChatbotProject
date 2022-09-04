@@ -1,0 +1,9 @@
+services:
+  client:
+    env_file: Discord_Client/.env
+    build:
+      context: Discord_Client/.
+
+  backend:
+    build:
+      context: Server/.
