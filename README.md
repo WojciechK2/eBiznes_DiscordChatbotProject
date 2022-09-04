@@ -17,8 +17,7 @@ Ktor based client for proxying requests to a backend.
 3.
 	check the bot on the Discord server you added it in  
 4.
-
-Ping bot by mentioning it in added Guild @\<KTORBOTNAME\> \<command\>  
+	Ping bot by mentioning it in added Guild @\<KTORBOTNAME\> \<command\>  
 
 Help Page  
 	type help for help  
